@@ -10,6 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //se modifico el archivo para hacer un committ
     }
 }
